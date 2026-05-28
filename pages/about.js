@@ -13,7 +13,7 @@ export default function About() {
         <p>Our mission is to deliver high-quality, faith-centred medical care to women across Enugu and Nigeria, ensuring patient safety and comfort.</p>
       </main>
       <footer>
-        <p>Need prayer and comfort resources before or after surgery? Visit <a href="https://diasozo-hub.vercel.app">Diasozo Surgery Recovery & Comfort Hub</a>.</p>
+        <p>Need prayer and comfort resources before or after surgery? Visit <a href="https://diasozo-surgery-recovery-hub.vercel.app/">Diasozo Surgery Recovery & Comfort Hub</a>.</p>
       </footer>
     </>
   );
