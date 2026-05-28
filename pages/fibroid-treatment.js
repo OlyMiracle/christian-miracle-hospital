@@ -13,7 +13,7 @@ export default function FibroidTreatment() {
         <p>We understand that fibroids can affect your health and wellbeing. Our team provides personalised care plans, from diagnosis to treatment and recovery, with a focus on patient safety and comfort.</p>
       </main>
       <footer>
-        <p>Need prayer and comfort resources before or after surgery? Visit <a href="https://diasozo-hub.vercel.app">Diasozo Surgery Recovery & Comfort Hub</a>.</p>
+        <p>Need prayer and comfort resources before or after surgery? Visit <a href="https://diasozo-surgery-recovery-hub.vercel.app/">Diasozo Surgery Recovery & Comfort Hub</a>.</p>
       </footer>
     </>
   );
